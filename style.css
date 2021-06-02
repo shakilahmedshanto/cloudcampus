@@ -1,0 +1,264 @@
+
+.container{	
+	width: 80%;
+	margin: 0 auto;
+    font-size: 20px;
+    position: sticky;
+}
+.nav{
+    position: sticky;
+    padding: 20px 0;
+    z-index: 50;
+}
+.nav li {
+    display: inline;
+    padding: 12px;
+}
+.nav li:hover{
+    color: #267C28;
+   
+}
+.nav a{
+    text-decoration: none;
+}
+.button{
+    background-color:#f9faff!important; ;
+}
+.nav ul button{
+    border-radius: 12px;
+}
+.menu1{
+    display: flex;
+    background-color: #f9faff!important;
+}
+.button a{
+    background-color: #267C28;
+    color: #ffffff;
+    border-color: #267C28;
+    padding: 12px;
+    text-decoration: none;
+}
+.button2{
+    display: flex;
+}
+.button3{
+    margin-left: 2%;
+}
+.button a:hover{
+    color: blue;
+}
+.btn1{
+    padding: 15px;
+    background-color: #267C28;;
+}
+.bt1 a{
+    border-radius: px;
+}
+.ppp{
+    text-align: center;
+    margin-top: 48px;
+}
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+}
+.item div{
+    width: 16.66%;
+}
+.bbb{
+    
+}
+.bbb a{
+    border: 3px solid #267C28;;
+    border-color: #267C28;
+    color: #267C28;
+     text-decoration: none;
+     letter-spacing: 1px;
+     padding: 12px;
+     display: inline-block;
+}
+.bbb  :hover{
+    background-color:#267C28; 
+    color: white;
+}
+.bbb1{
+    margin-top: 27px;
+}
+.bbb1 a{
+    border: 3px solid #267C28;;
+    border-color: #267C28;
+    color: #267C28;
+     text-decoration: none;
+     letter-spacing: 1px;
+     padding: 12px;
+}
+.bbb1  :hover{
+    background-color:#267C28; 
+    color: white;
+}
+.container2{
+    background-color: #f9faff!important;
+}
+.flex-item1 i{
+    text-align: center;
+}
+
+.flex-item1{
+    display: flex;
+    margin: 59px 18px;
+    flex-wrap: wrap;
+}
+.item1{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   
+}
+.item1 div{
+    width: 25%;
+
+
+}
+.item1 div img{
+   width: 100%;
+
+}
+.box{
+    box-shadow: 10px 10px 15px rgb(73 78 92 / 10%);
+    width: 33%;
+    text-align: center;
+    padding: 50px;
+}
+.box6{
+    width: 25%;
+}
+ .flex-item1 .box :hover{
+    background-color: blue;
+}
+/* .flex-item1 div{
+    width: 48%;
+} */
+.flex-item3 div{
+    width: 48%;
+}
+.flex-item3{
+    display: flex;
+}
+.box7{
+    margin-right: 4%;
+}
+.box7 img{
+    width: 100%;
+   
+}
+.flex-container5{
+    display: flex;
+    background-color: #ffffff!important;
+}
+.flex-container5 div{
+    width: 50%;
+    box-shadow: 0px 20px 50px 0px rgb(115 115 115 / 10%);
+    margin: 45px;
+    padding: 1rem 3.5rem 4.5rem 6.5rem;
+}
+.flex-container5 img{
+    margin-left: -154px;
+}
+
+footer{
+    background-color: #f9faff!important;
+    padding: 30px 0;
+}
+
+.fff1 ul li{
+    list-style-type: none;
+}
+.fff1{
+    display: flex;
+}
+.fot1{
+    background-color: white;
+}
+.con{
+    background-color: #f9faff!important;
+    
+}
+.form{
+    width: 100%;
+}
+.form div{
+    padding: 10px;
+    margin: 0px;
+}
+.form1{
+    display: flex;
+}
+.flex-container{
+    width: 100%;
+}
+.flex-item{
+    display: flex;
+    width: 50%;
+}
+.flex-item6{
+    display: flex;
+    width: 100%;
+}
+.box9{
+    width: 50%;
+    margin: 0px 39px;
+}
+.flex-item7{
+    display: flex;
+}
+.flex-item7 div{
+    width: 25%;
+}
+.flex-item7 i{
+    display: block;
+    border: 1px solid;
+    width: 84px;
+    height: 81px;
+    border-radius: 50%;
+    background-color: #267C28;
+    color: white;
+    font-size: 38px;
+    padding: 22px;
+    align-items: center;
+    margin: 16px 53px 11px;
+}
+
+.iii{
+    display: block;
+    border: 1px solid;
+    width: 84px;
+    height: 81px;
+    border-radius: 50%;
+    background-color: #267C28;
+    color: white;
+    font-size: 38px;
+    padding: 18px;
+    align-items: center;
+    margin: -61px auto 20px;
+}
+.iii1{
+    display: block;
+    border: 1px solid;
+    width: 84px;
+    height: 81px;
+    border-radius: 50%;
+    background-color: #267C28;
+    color: white;
+    font-size: 38px;
+    padding: 18px;
+    margin-left: 121px;
+}
+.ttt{
+    margin: -24px;
+    margin-top: 24px;
+}
+
+.iii2{
+    float: right;
+}
